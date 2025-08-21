@@ -116,6 +116,10 @@
     // Init
     showTestimonial(currentIndex);
     startAutoPlay();
+
+    function toggleMenu() {
+      document.getElementById("navLinks").classList.toggle("active");
+    }
   </script>
 
 </body>

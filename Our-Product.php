@@ -1,6 +1,8 @@
 <?php include 'includes/header.php' ?>
 <section class="Banner-inner">
   <h1>Our Product</h1>
+  <p>Home/Our Product</p>
+
 </section>
 
 <section class="div-container">

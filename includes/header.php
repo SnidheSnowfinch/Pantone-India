@@ -16,22 +16,23 @@
 </head>
 
 <body>
+<nav class="navbar">
+    <a href="#" class="logo"><img src="bootstrap/images/logo.jpg" alt=""></a>
+    <div class="nav-links" id="navLinks">
+    <span class="close-btn" onclick="toggleMenu()">&times;</span>
+      <a href="index.php">Home</a>
+      <a href="About-us.php">About Us</a>
+      <a href="Our-Product.php">Our Product</a>
+      <a href="#">Gallery</a>
+      <a href="#">Blog</a>
+      <a href="#">E-waste Management</a>
 
 
-  <header>
-    <div class="logo">
-      <img src="bootstrap/images/logo.jpg" alt="Pantone India Logo">
+      <a href="#">Contact Us</a>
     </div>
-    <nav>
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About Us</a></li>
-        <li><a href="#">Products</a></li>
-        <li><a href="#">Blog</a></li>
-        <li><a href="#">Career</a></li>
-        <li><a href="#">Gallery</a></li>
-        <li><a href="#">CRM/Service</a></li>
-        <li><a href="#">Contact</a></li>
-      </ul>
-    </nav>
-  </header>
+    <div class="menu-toggle" onclick="toggleMenu()">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </nav>
