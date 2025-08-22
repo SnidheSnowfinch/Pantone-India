@@ -100,18 +100,19 @@
     function stopAutoPlay() {
       clearInterval(interval);
     }
-
+if(nextBtn){
     nextBtn.addEventListener('click', () => {
       stopAutoPlay();
       nextTestimonial();
       startAutoPlay();
     });
-
+  }
+  if(prevBtn){
     prevBtn.addEventListener('click', () => {
       stopAutoPlay();
       prevTestimonial();
       startAutoPlay();
-    });
+    });}
 
     // Init
     showTestimonial(currentIndex);
@@ -120,6 +121,24 @@
     function toggleMenu() {
       document.getElementById("navLinks").classList.toggle("active");
     }
+    document.addEventListener("DOMContentLoaded", () => {
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      console.log("Observed:", entry.target);
+      if (entry.isIntersecting) {
+        console.log("Showing:", entry.target); 
+        entry.target.classList.add('show');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, {
+    threshold: 0.1
+  });
+
+  document.querySelectorAll('.fade-in-on-scroll').forEach(el => {
+    observer.observe(el);
+  });
+});
   </script>
 
 </body>

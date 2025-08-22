@@ -1,22 +1,22 @@
 <?php include 'includes/header.php' ?>
-<section class="Banner-inner">
+<section class="Banner-inner fade-in-on-scroll">
   <h1>Increase in production print speed Up to 75% with Fastest printer</h1>
   <p>Home/Increase in production print speed Up to 75% with Fastest printer</p>
 
 </section>
-<section class="div-container">
+<section class="div-container fade-in-on-scroll">
 <div class="product-card mb-0">
         <div class="product-details">
           <h3>Increase in production print speed Up to 75% with Fastest printer</h3>
         
           <div class="buttons">
-            <a href="#" class="btn-video">▶ Watch Video</a>
+            <a href="#" class="btn-video glaze-btn">▶ Watch Video</a>
           </div>
         </div>
         <img src="bootstrap/images/pantone-8-Heads.jpg">
       </div>
 </section>
-<section class="div-container pt-0">
+<section class="div-container pt-0 fade-in-on-scroll">
 <div class="border-line">
   <h2>MODEL NO – PI318</h2>
     <h4>PRINTING TECHNOLOGY</h4>
@@ -70,7 +70,7 @@
 
 </div>
 </section>
-<section class="div-container pt-0">
+<section class="div-container pt-0 fade-in-on-scroll">
     <div class="row">
       <div class="col-lg-4 col-md-6 col-sm-12">
         <div class="contact-form">
@@ -78,7 +78,7 @@
           <input type="email" placeholder="Your Email">
           <input type="tel" placeholder="Telephone">
           <textarea placeholder="Message"></textarea>
-          <button>Submit Quote</button>
+          <button class="glaze-btn">Submit Quote</button>
         </div>
       </div>
       <div class="col-lg-8 col-md-6 col-sm-12">

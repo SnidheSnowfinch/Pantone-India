@@ -1,10 +1,10 @@
 <?php include 'includes/header.php' ?>
-<section class="Banner-inner">
+<section class="Banner-inner fade-in-on-scroll">
   <h1>Faster & more stable – Xenons maxima-3 heads</h1>
   <p>Home/Faster & more stable – Xenons maxima-3 heads</p>
 
 </section>
-<section class="div-container">
+<section class="div-container fade-in-on-scroll">
 <div class="product-card mb-0">
         <div class="product-details">
           <h3>Faster & more stable – Xenons maxima-3 heads</h3>
@@ -15,13 +15,13 @@
 
           </ul>
           <div class="buttons">
-            <a href="#" class="btn-video">▶ Watch Video</a>
+            <a href="#" class="btn-video glaze-btn">▶ Watch Video</a>
           </div>
         </div>
         <img src="bootstrap/images/faster-more-stable-xenons.jpg">
       </div>
 </section>
-<section class="div-container pt-0">
+<section class="div-container pt-0 fade-in-on-scroll">
 <div class="border-line">
     <h4>PRINTING TECHNOLOGY</h4>
     <ul>
@@ -90,7 +90,7 @@
 
 </div>
 </section>
-<section class="div-container pt-0">
+<section class="div-container pt-0 fade-in-on-scroll">
     <div class="row">
       <div class="col-lg-4 col-md-6 col-sm-12">
         <div class="contact-form">
@@ -98,7 +98,7 @@
           <input type="email" placeholder="Your Email">
           <input type="tel" placeholder="Telephone">
           <textarea placeholder="Message"></textarea>
-          <button>Submit Quote</button>
+          <button class="glaze-btn">Submit Quote</button>
         </div>
       </div>
       <div class="col-lg-8 col-md-6 col-sm-12">

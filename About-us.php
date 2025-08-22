@@ -1,11 +1,11 @@
 <?php include 'includes/header.php' ?>
 
 
-  <section class="Banner-inner">
+  <section class="Banner-inner fade-in-on-scroll">
     <h1>About Us</h1>
     <p>Home/A bout Us</p>
   </section>
-  <section class="div-container">
+  <section class="div-container fade-in-on-scroll">
     <div class="row">
       <div class="col-lg-6 col-md-6 col-sm-12">
         <div class="about-img">
@@ -36,12 +36,13 @@
       </div>
     </div>
   </section>
-  <section class="dual-section">
+  <section class="parallax-new">
+  <section class="dual-section fade-in-on-scroll">
     <p>Service is an important aspect of our commitment towards the customers, customers’ needs are at upmost priority for us. Immediateavailability of spare parts, skilled technic, timelyintervention and periodic maintenance service. Excellent team of engineers to meet clients’requirements and technical challenges. Training programs for skill development and to acquaintance with modern technologies.</p>
     <p>We offer you the machine which revolutionizing the world of printing with robust performance, lowest down tine, high value and ROI. Pantone India provides an organized complete solution to meet the requirement for customers and investors who want to kick start their digital textile printing project foreseeing the fast fashion trends & abrupt reduction of supply chain.</p>
     <p>We are game changer and leading company who are committed to technological innovation, strong outreach & service infrastructure and complete customer focus. The high productivity machine offered by Pantone India to meet today’s challenges and handletomorrow’s textile production requirement. We have strong client base across india who are dominating textile industry from long time with their versatile products.</p>
-  </section>
-  <section class="div-container">
+  </section></section>
+  <section class="div-container fade-in-on-scroll">
     <div class="row align-item">
         <div class="col-lg-4 col-md-6 col-sm-12">
           <img class="abt-img" src="bootstrap/images/Mr.-Mahendra-Rane.jpg" alt="">
@@ -66,7 +67,7 @@
 
   </div>
   </section>
-  <section class="gray">
+  <section class="gray fade-in-on-scroll">
     <section class="div-container text-center">
       <h2>What Our Costumer Says</h2>
       <div class="testimonial">
@@ -83,7 +84,7 @@
         </div>
 
         <!-- Testimonial 2 -->
-        <div class="testimonial-content">
+        <div class="testimonial-content fade-in-on-scroll">
           <img src="bootstrap/images/PP.png" alt="Customer">
 
           <p>
@@ -119,7 +120,7 @@
 
     </section>
   </section>
-  <section class="div-container">
+  <section class="div-container fade-in-on-scroll">
     <div class="row">
       <div class="col-lg-4 col-md-6 col-sm-12">
         <div class="contact-form">
@@ -127,7 +128,7 @@
           <input type="email" placeholder="Your Email">
           <input type="tel" placeholder="Telephone">
           <textarea placeholder="Message"></textarea>
-          <button>Submit Quote</button>
+          <button class="glaze-btn">Submit Quote</button>
         </div>
       </div>
       <div class="col-lg-8 col-md-6 col-sm-12">

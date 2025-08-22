@@ -1,82 +1,92 @@
 <?php include 'includes/header.php' ?>
-<section class="Banner-inner">
+<section class="Banner-inner fade-in-on-scroll">
   <h1>Our Product</h1>
   <p>Home/Our Product</p>
 
 </section>
 
-<section class="div-container">
+<section class="div-container fade-in-on-scroll">
   <section class="products">
-    <div class="product-card ">
-      <div class="product-details">
-        <h3>Faster & more stable – Xenons maxima-3 heads</h3>
+    
+      <div class="product-card ">
+        <div class="product-details">
+          <h3>Faster & more stable – Xenons maxima-3 heads</h3>
 
-        <div class="buttons">
-          <a href="#" class="btn-pdf">Read More</a>
+          <div class="buttons">
+            <a href="faster-more-stable-xenons-maxima-3-heads.php" class="btn-pdf glaze-btn">Read More</a>
+          </div>
+        </div>
+        <img src="bootstrap/images/faster-more-stable-xenons.jpg">
+      </div>
+
+
+    
+      <div class="product-card">
+
+        <img src="bootstrap/images/pantone-8-Heads.jpg" alt="Transfer Tex Machine">
+        <div class="product-details">
+          <h3>Increase in production print speed Up to 75% with Fastest printer</h3>
+
+          <div class="buttons">
+            <a href="high-speed-single-pass-ink-jet-printer.php" class="btn-pdf glaze-btn">Read More</a>
+          </div>
         </div>
       </div>
-      <img src="bootstrap/images/faster-more-stable-xenons.jpg">
-    </div>
+ 
+      <div class="product-card ">
+        <div class="product-details">
+          <h3>Nomex Blanket</h3>
 
-    <div class="product-card">
+          <div class="buttons">
+            <a href="nomex-blanket.php" class="btn-pdf glaze-btn">Read More</a>
+          </div>
+        </div>
+        <img src="bootstrap/images/Blanket.jpg">
+      </div>
+ 
+ 
+      <div class="product-card ">
+        <img src="bootstrap/images/Pantone-India-About-pg-img.png">
 
-      <img src="bootstrap/images/pantone-8-Heads.jpg" alt="Transfer Tex Machine">
-      <div class="product-details">
-        <h3>Increase in production print speed Up to 75% with Fastest printer</h3>
+        <div class="product-details">
+          <h3>Sublimation Ink</h3>
 
-        <div class="buttons">
-          <a href="#" class="btn-pdf">Read More</a>
+          <div class="buttons">
+            <a href="sublimation-ink.php" class="btn-pdf glaze-btn">Read More</a>
+          </div>
         </div>
       </div>
-    </div>
-    <div class="product-card ">
-      <div class="product-details">
-        <h3>Nomex Blanket</h3>
+ 
 
-        <div class="buttons">
-          <a href="#" class="btn-pdf">Read More</a>
+      <div class="product-card">
+
+        <div class="product-details">
+          <h3>Transfer Tex – Heat Transfer Machine</h3>
+
+          <div class="buttons">
+            <a href="transfer-tex-heat-transfer-machine.php" class="btn-pdf glaze-btn">Read More</a>
+          </div>
+        </div>
+        <img src="bootstrap/images/Hp-Slider-red.jpg" alt="Transfer Tex Machine">
+
+      </div>
+ 
+
+      <div class="product-card ">
+        <img src="bootstrap/images/natrix.jpg">
+
+        <div class="product-details">
+          <h3>Natrix – Direct Digital Printer</h3>
+
+          <div class="buttons">
+            <a href="" class="btn-pdf glaze-btn">Read More</a>
+          </div>
         </div>
       </div>
-      <img src="bootstrap/images/Blanket.jpg">
-    </div>
-    <div class="product-card ">
-      <img src="bootstrap/images/Pantone-India-About-pg-img.png">
-
-      <div class="product-details">
-        <h3>Sublimation Ink</h3>
-
-        <div class="buttons">
-          <a href="#" class="btn-pdf">Read More</a>
-        </div>
-      </div>
-    </div>
-
-    <div class="product-card">
-
-      <div class="product-details">
-        <h3>Transfer Tex – Heat Transfer Machine</h3>
-
-        <div class="buttons">
-          <a href="#" class="btn-pdf">Read More</a>
-        </div>
-      </div>
-      <img src="bootstrap/images/Hp-Slider-red.jpg" alt="Transfer Tex Machine">
-
-    </div>
-    <div class="product-card ">
-      <img src="bootstrap/images/natrix.jpg">
-
-      <div class="product-details">
-        <h3>Natrix – Direct Digital Printer</h3>
-
-        <div class="buttons">
-          <a href="#" class="btn-pdf">Read More</a>
-        </div>
-      </div>
-    </div>
+ 
   </section>
 </section>
-<section class="mvp-section mvp-gray text-dark">
+<section class="mvp-section mvp-gray text-dark fade-in-on-scroll">
   <div class="mvp-box">
     <img src="bootstrap/images/quality.png" alt="">
 
@@ -95,7 +105,7 @@
     <p>Our customers come first. They are the reason of our company exists.</p>
   </div>
 </section>
-<section class="div-container">
+<section class="div-container fade-in-on-scroll">
   <div class="row">
     <div class="col-lg-4 col-md-6 col-sm-12">
       <div class="contact-form">
@@ -103,7 +113,7 @@
         <input type="email" placeholder="Your Email">
         <input type="tel" placeholder="Telephone">
         <textarea placeholder="Message"></textarea>
-        <button>Submit Quote</button>
+        <button class="glaze-btn">Submit Quote</button>
       </div>
     </div>
     <div class="col-lg-8 col-md-6 col-sm-12">
