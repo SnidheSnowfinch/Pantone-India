@@ -23,12 +23,12 @@
       <a href="index.php">Home</a>
       <a href="About-us.php">About Us</a>
       <a href="Our-Product.php">Our Product</a>
-      <a href="#">Gallery</a>
+      <a href="gallery.php">Gallery</a>
       <a href="#">Blog</a>
       <a href="#">E-waste Management</a>
 
 
-      <a href="#">Contact Us</a>
+      <a href="contact-us.php">Contact Us</a>
     </div>
     <div class="menu-toggle" onclick="toggleMenu()">
       <span></span>

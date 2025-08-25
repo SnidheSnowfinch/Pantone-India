@@ -79,7 +79,7 @@
           <h3>Natrix – Direct Digital Printer</h3>
 
           <div class="buttons">
-            <a href="" class="btn-pdf glaze-btn">Read More</a>
+            <a href="natrix-direct-digital-printer.php" class="btn-pdf glaze-btn">Read More</a>
           </div>
         </div>
       </div>

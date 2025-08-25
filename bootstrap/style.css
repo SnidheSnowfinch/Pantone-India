@@ -16,7 +16,7 @@ body {
   justify-content: space-between;
   align-items: center;
   background: #fff;
-  padding: 15px 20px;
+  padding: 15px 25px;
   position: sticky;
   top: 0;
   z-index: 1000;
@@ -108,9 +108,9 @@ body {
     position: fixed;
     top: 0;
     left: -100%;
-    height: 60vh;
+    height: 65vh;
     width: 100%;
-    background: linear-gradient(135deg, #171771, #5656a9);
+    background: linear-gradient(135deg, #15153a, #5656a9);
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -806,6 +806,19 @@ footer {
     font-size: 25px;
     margin-bottom: 10px;
   }
+  .custom-contact-box {
+    width: 100%;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    background: #fafafa;
+  }
+  .custom-contact-row {
+    /* display: flex;
+    gap: 15px; */
+    margin-bottom: 15px;
+  }
 }
 
 @media(min-width: 768px) and (max-width: 900px) {
@@ -936,10 +949,46 @@ footer {
     font-size: 28px;
     margin-bottom: 10px;
   }
+  .col {
+    flex-grow: 1;
+    flex-basis: 0; /* allows flexible sizing */
+  }
+  .custom-contact-box {
+    width: 70%;
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    background: #fafafa;
+  }
+  .custom-contact-row {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 15px;
+  }
 
 }
 
 @media (min-width: 901px) {
+  .custom-contact-box {
+    width: 75%;
+    max-width: 750px;
+    margin: 40px auto;
+    padding: 35px;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    background: #fafafa;
+  }
+  .custom-contact-row {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 15px;
+  }
+  .col {
+    flex-grow: 1;
+    flex-basis: 0; /* allows flexible sizing */
+  }
   .product-section-blue h2 {
     font-weight: 700;
     color: #fff;
@@ -1179,6 +1228,11 @@ footer {
     font-weight: bold;
     color: #333;
   }
+  .col {
+    margin-top: 10px;
+    flex-grow: 1 !important;
+    flex-basis: 1 !important;
+}
 }
 
 .fade-in-on-scroll {
@@ -1242,3 +1296,154 @@ a {
     left: 125%;
   }
 }
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 10px;
+}
+
+
+
+.col-2 { flex: 2; }
+.col-3 { flex: 3; }
+.col-4 { flex: 4; }
+
+.gallery img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+.gallery img:hover {
+  opacity: .9;
+
+  filter: hue-rotate(10deg) brightness(1.1) contrast(1.2);
+  cursor: pointer;
+  transform: scale(1.03);
+}
+
+
+
+/* Modal */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.9);
+  justify-content: center;
+  align-items: center;
+}
+
+.modal img {
+  max-width: 90%;
+  max-height: 80%;
+  border-radius: 8px;
+}
+
+.close-img, .prev-img, .next-img {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 2em;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  background: rgba(0,0,0,0.5);
+  border-radius: 50%;
+  user-select: none;
+}
+
+.close-img {
+  top: 20px;
+  right: 20px;
+  transform: none;
+}
+
+.prev-img { left: 20px; }
+.next-img { right: 20px; }
+
+
+
+.custom-contact-box label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+
+
+.custom-contact-row .custom-input-box {
+  flex: 1;
+}
+
+.custom-input-box input,
+.custom-input-box textarea {
+  width: 100%;
+  padding: 8px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.custom-input-box textarea {
+  resize: none;
+  height: 80px;
+}
+
+.custom-submit-btn {
+  border-radius: 5px;
+  background: #171771;
+  color: #fff;
+  border: none;
+  padding: 6px 20px;
+  cursor: pointer;
+}
+
+
+.custom-footer {
+  margin-top: 50px;
+  padding: 20px 10%;
+  border-top: 2px solid #d3d7db;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  background: #fff;
+}
+.yellow{
+  color: #FFC107;
+}
+.custom-footer-section {
+  width: 30%;
+  min-width: 200px;
+  margin-bottom: 15px;
+}
+
+.custom-footer-section h4 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.custom-footer-section p {
+  font-size: 15px;
+  margin: 4px 0;
+  line-height: 1.5;
+}
+
+.custom-footer-section a {
+  text-decoration: none;
+  color: #000;
+}
+input:focus,select:focus,textarea:focus {
+      outline: none;
+      border-color: #418dffa4; /* darker blue when focused */
+      background-color: #e9f3fdb1;
+    }

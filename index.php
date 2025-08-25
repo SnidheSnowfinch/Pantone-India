@@ -8,86 +8,86 @@
 
 <section class="div-container fade-in-on-scroll">
   <section class="products">
-    
-      <div class="product-card ">
-        <div class="product-details">
-          <h3>Faster & more stable – Xenons maxima-3 heads</h3>
-          <ul>
-            <li><b>Key Features:</b> KEY FEATURES Advance Media System for Long Unattended .Customized Print
-              Head Configuration for Mirrored CMYKKYMC or Other for Higher Quality. Heavy Duty Printing
-              with Tension System,</li>
 
-          </ul>
-          <div class="buttons">
-            <a href="#" class="btn-video glaze-btn">▶ Watch Video</a>
-            <a href="faster-more-stable-xenons-maxima-3-heads.php" class="btn-pdf glaze-btn">Read More</a>
-          </div>
-        </div>
-        <img src="bootstrap/images/faster-more-stable-xenons.jpg">
-      </div>
-   
+    <div class="product-card ">
+      <div class="product-details">
+        <h3>Faster & more stable – Xenons maxima-3 heads</h3>
+        <ul>
+          <li><b>Key Features:</b> KEY FEATURES Advance Media System for Long Unattended .Customized Print
+            Head Configuration for Mirrored CMYKKYMC or Other for Higher Quality. Heavy Duty Printing
+            with Tension System,</li>
 
-   
-      <div class="product-card">
-
-        <img src="bootstrap/images/pantone-8-Heads.jpg" alt="Transfer Tex Machine">
-        <div class="product-details">
-          <h3>Increase in production print speed Up to 75% with Fastest printer</h3>
-          <ul>
-            <li><b>TECHANICAL PARAMETER MODEL NO –</b> PI318 PRINTING TECHNOLOGY Print Head EPSON i3200 with
-              intelligent Dot Variable Technology Print Head Position Staggered Print Heads PRODUCTIVITY
-              Express 1 Pass –...</li>
-
-          </ul>
-          <div class="buttons">
-            <a href="#" class="btn-video glaze-btn">▶ Watch Video</a>
-            <a href="high-speed-single-pass-ink-jet-printer.php" class="btn-pdf glaze-btn">Read More</a>
-          </div>
+        </ul>
+        <div class="buttons">
+          <a href="#" class="btn-video glaze-btn">▶ Watch Video</a>
+          <a href="faster-more-stable-xenons-maxima-3-heads.php" class="btn-pdf glaze-btn">Read More</a>
         </div>
       </div>
+      <img src="bootstrap/images/faster-more-stable-xenons.jpg">
+    </div>
 
 
-      <div class="product-card ">
-        <div class="product-details">
-          <h3>Nomex Blanket</h3>
-          <ul>
-            <li><b>Key Features:</b> Nomex Felt is made of imported high-temperature Nomex fiber. The intermediate base
-              fabric is made of polyester dry mesh and Kevlar base. The temperature can reach 250 degrees. </li>
 
-          </ul>
-          <div class="buttons">
-            <a href="#" class="btn-video glaze-btn">▶ Watch Video</a>
-            <a href="nomex-blanket.php" class="btn-pdf glaze-btn">Read More</a>
-          </div>
+    <div class="product-card">
+
+      <img src="bootstrap/images/pantone-8-Heads.jpg" alt="Transfer Tex Machine">
+      <div class="product-details">
+        <h3>Increase in production print speed Up to 75% with Fastest printer</h3>
+        <ul>
+          <li><b>TECHANICAL PARAMETER MODEL NO –</b> PI318 PRINTING TECHNOLOGY Print Head EPSON i3200 with
+            intelligent Dot Variable Technology Print Head Position Staggered Print Heads PRODUCTIVITY
+            Express 1 Pass –...</li>
+
+        </ul>
+        <div class="buttons">
+          <a href="#" class="btn-video glaze-btn">▶ Watch Video</a>
+          <a href="high-speed-single-pass-ink-jet-printer.php" class="btn-pdf glaze-btn">Read More</a>
         </div>
-        <img src="bootstrap/images/Blanket.jpg">
       </div>
+    </div>
+
+
+    <div class="product-card ">
+      <div class="product-details">
+        <h3>Nomex Blanket</h3>
+        <ul>
+          <li><b>Key Features:</b> Nomex Felt is made of imported high-temperature Nomex fiber. The intermediate base
+            fabric is made of polyester dry mesh and Kevlar base. The temperature can reach 250 degrees. </li>
+
+        </ul>
+        <div class="buttons">
+          <a href="#" class="btn-video glaze-btn">▶ Watch Video</a>
+          <a href="nomex-blanket.php" class="btn-pdf glaze-btn">Read More</a>
+        </div>
+      </div>
+      <img src="bootstrap/images/Blanket.jpg">
+    </div>
 
   </section>
 </section>
 <section class="parallax">
-<section class="mvp-section fade-in-on-scroll">
-  <div class="mvp-box">
-    <img src="bootstrap/images/mission.png" alt="">
+  <section class="mvp-section fade-in-on-scroll">
+    <div class="mvp-box">
+      <img src="bootstrap/images/mission.png" alt="">
 
-    <h3>Mission</h3>
-    <p>Establish Pantone INDIA as a benchmark in digital printing world by introducing cutting edge technology and
-      extending value to our customers by excellent services.</p>
-  </div>
-  <div class="mvp-box">
-    <img src="bootstrap/images/vision.png" alt="">
-    <h3>Vision</h3>
-    <p>Establish Pantone INDIA as a benchmark in digital printing world by introducing cutting edge technology and
-      extending value to our customers by excellent services.</p>
-  </div>
-  <div class="mvp-box">
-    <img src="bootstrap/images/policy.png" alt="">
+      <h3>Mission</h3>
+      <p>Establish Pantone INDIA as a benchmark in digital printing world by introducing cutting edge technology and
+        extending value to our customers by excellent services.</p>
+    </div>
+    <div class="mvp-box">
+      <img src="bootstrap/images/vision.png" alt="">
+      <h3>Vision</h3>
+      <p>Establish Pantone INDIA as a benchmark in digital printing world by introducing cutting edge technology and
+        extending value to our customers by excellent services.</p>
+    </div>
+    <div class="mvp-box">
+      <img src="bootstrap/images/policy.png" alt="">
 
-    <h3>Policy</h3>
-    <p>Establish Pantone INDIA as a benchmark in digital printing world by introducing cutting edge technology and
-      extending value to our customers by excellent services.</p>
-  </div>
-</section>
+      <h3>Policy</h3>
+      <p>Establish Pantone INDIA as a benchmark in digital printing world by introducing cutting edge technology and
+        extending value to our customers by excellent services.</p>
+    </div>
+  </section>
 </section>
 <section class="div-container fade-in-on-scroll">
   <div class="row">
@@ -126,7 +126,7 @@
     <div class="product-card-blue">
       <img src="bootstrap/images/Hp-Slider.jpg" alt="Digital Printer">
       <h3>NATRIX – DIRECT DIGITAL PRINTER</h3>
-      <a href="" class="btn glaze-btn">Learn more</a>
+      <a href="natrix-direct-digital-printer.php" class="btn glaze-btn">Learn more</a>
     </div>
     <div class="product-card-blue">
       <img src="bootstrap/images/PANTONE-INDIA-2.jpg" alt="Sublimaion Ink">

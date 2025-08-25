@@ -3,7 +3,7 @@
 
   <section class="Banner-inner fade-in-on-scroll">
     <h1>About Us</h1>
-    <p>Home/A bout Us</p>
+    <p>Home/About Us</p>
   </section>
   <section class="div-container fade-in-on-scroll">
     <div class="row">
