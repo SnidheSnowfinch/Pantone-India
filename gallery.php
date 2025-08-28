@@ -43,7 +43,6 @@
     </div>
   </div>
 
-  <!-- Modal -->
   <div class="modal" id="modal">
     <span class="close-img" id="close-img">&times;</span>
     <span class="prev-img" id="prev-img">&#10094;</span>

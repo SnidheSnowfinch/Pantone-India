@@ -1,6 +1,4 @@
 <?php include 'includes/header.php' ?>
-
-
   <section class="Banner-inner fade-in-on-scroll">
     <h1>About Us</h1>
     <p>Home/About Us</p>
@@ -72,7 +70,6 @@
       <h2>What Our Costumer Says</h2>
       <div class="testimonial">
 
-        <!-- Testimonial 1 -->
         <div class="testimonial-content active">
           <img src="bootstrap/images/unnamed.png" alt="Customer">
 
@@ -83,7 +80,6 @@
           <h4>Shakti P.</h4>
         </div>
 
-        <!-- Testimonial 2 -->
         <div class="testimonial-content fade-in-on-scroll">
           <img src="bootstrap/images/PP.png" alt="Customer">
 

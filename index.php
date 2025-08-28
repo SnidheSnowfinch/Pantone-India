@@ -1,6 +1,4 @@
 <?php include 'includes/header.php' ?>
-
-
 <section class="Banner fade-in-on-scroll">
   <h1>WELCOME TO PANTONE INDIA</h1>
   <p>Pantone India is one of the top rated and leading digital textile solution providers in India.</p>
@@ -71,21 +69,18 @@
       <img src="bootstrap/images/mission.png" alt="">
 
       <h3>Mission</h3>
-      <p>Establish Pantone INDIA as a benchmark in digital printing world by introducing cutting edge technology and
-        extending value to our customers by excellent services.</p>
+      <p>Quality highest price lowest.</p>
     </div>
     <div class="mvp-box">
       <img src="bootstrap/images/vision.png" alt="">
       <h3>Vision</h3>
-      <p>Establish Pantone INDIA as a benchmark in digital printing world by introducing cutting edge technology and
-        extending value to our customers by excellent services.</p>
+      <p>Establish Panton INDIA as a benchmark in digital printing world by introducing cutting edge technology and creating value for our customers by excellent service.</p>
     </div>
     <div class="mvp-box">
       <img src="bootstrap/images/policy.png" alt="">
 
       <h3>Policy</h3>
-      <p>Establish Pantone INDIA as a benchmark in digital printing world by introducing cutting edge technology and
-        extending value to our customers by excellent services.</p>
+      <p>Customer first</p>
     </div>
   </section>
 </section>
@@ -145,7 +140,6 @@
     <h2>What Our Costumer Says</h2>
     <div class="testimonial">
 
-      <!-- Testimonial 1 -->
       <div class="testimonial-content active">
         <img src="bootstrap/images/unnamed.png" alt="Customer">
 
@@ -156,7 +150,6 @@
         <h4>Shakti P.</h4>
       </div>
 
-      <!-- Testimonial 2 -->
       <div class="testimonial-content">
         <img src="bootstrap/images/PP.png" alt="Customer">
 
@@ -166,7 +159,6 @@
         <h4>Sagar P.</h4>
       </div>
 
-      <!-- Testimonial 3 -->
       <div class="testimonial-content">
         <img src="bootstrap/images/w.png" alt="Customer">
 
@@ -184,7 +176,6 @@
         <h4>Siddhi J.</h4>
       </div>
 
-      <!-- Arrows -->
       <div class="testimonial-arrows">
         <span id="prev">&#8249;</span>
         <span id="next">&#8250;</span>

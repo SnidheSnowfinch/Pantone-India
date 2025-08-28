@@ -81,8 +81,6 @@
   <div class="row margin-topfade-in-on-scroll mt-4">
     <div class="col-lg-8 col-md-6 col-sm-12">  <img width="100%" src="bootstrap/images/pantone-natrix-2.jpg" alt="">
     </div>
-
-
   </div>
 </section>
 

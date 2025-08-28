@@ -46,7 +46,7 @@
  
  
       <div class="product-card ">
-        <img src="bootstrap/images/Pantone-India-About-pg-img.png">
+        <img src="bootstrap/images/PANTONE-INDIA.jpg">
 
         <div class="product-details">
           <h3>Sublimation Ink</h3>
