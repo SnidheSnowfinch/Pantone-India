@@ -1,7 +1,7 @@
 <?php include 'includes/header.php' ?>
 <section class="Banner-inner fade-in-on-scroll">
   <h1>Transfer Tex – Heat Transfer Machine</h1>
-  <p>Home/Transfer Tex – Heat Transfer Machine</p>
+  <p>Home / Transfer Tex – Heat Transfer Machine</p>
 
 </section>
 <section class="div-container fade-in-on-scroll">

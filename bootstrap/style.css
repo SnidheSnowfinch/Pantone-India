@@ -88,6 +88,9 @@ body {
 }
 
 @media (max-width: 768px) {
+  .table-head h4{
+    font-size: 20px;
+  }
   .spec-table,
   .spec-table thead,
   .spec-table tbody,
@@ -984,7 +987,7 @@ footer {
   .product-section-blue h2 {
     font-weight: 700;
     color: #fff;
-    font-size: 30px;
+    font-size: 35px;
     margin-bottom: 40px;
   }
 
@@ -1019,7 +1022,7 @@ footer {
 
   .product-details h3 {
     font-weight: 700;
-    font-size: 25px;
+    font-size: 28px;
     margin-bottom: 15px;
   }
 
@@ -1035,7 +1038,7 @@ footer {
     margin-bottom: 20px;
     color: #212529;
     font-weight: 700;
-    font-size: 25px;
+    font-size: 35px;
   }
 
   .Banner {
@@ -1078,7 +1081,7 @@ footer {
     -webkit-text-stroke: 1.3px #fff;
     font-family: 'Agency FB', sans-serif;
     font-weight: 900;
-    font-size: 35px;
+    font-size: 55px;
     letter-spacing: 2px;
   }
 
@@ -1140,7 +1143,7 @@ footer {
 
   .mvp-box h3 {
     font-weight: 700;
-    font-size: 28px;
+    font-size: 30px;
     margin-bottom: 10px;
   }
 }
@@ -1369,3 +1372,47 @@ input:focus,select:focus,textarea:focus {
       border-color: #418dffa4;
       background-color: #e9f3fdb1;
     }
+    .table-head th {
+      padding: 15px 10px;
+      text-align: left;
+      font-weight: 600;
+      position: relative;
+      cursor: pointer;
+  }
+  .table-tbody td {
+    padding: 10px 10px;
+    color: #444;
+}
+    .table-head{
+      margin-bottom: 30px;
+      padding: 15px 20px;
+      background: linear-gradient(to right, #273f89, #17186f);      color: white;
+      border-radius: 10px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    }
+    .tb{
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 900px;
+  
+    }
+    .table-container {
+      margin-bottom: 50px;
+      background: white;
+      border-radius: 10px;
+      /* overflow: hidden; */
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+      /* overflow-x: auto;
+      max-height: 70vh;
+      overflow-y: auto; */
+  }
+  .state-badge {
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 4px 10px;
+    border-radius: 50px;
+    background: #e4ecf5;
+    color: #2c4677;
+    font-weight: 500;
+    font-size: 0.85rem;
+}

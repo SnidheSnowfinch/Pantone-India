@@ -22,8 +22,8 @@
       <a href="About-us.php">About Us</a>
       <a href="Our-Product.php">Our Product</a>
       <a href="gallery.php">Gallery</a>
-      <a href="#">Blog</a>
-      <a href="#">E-waste Management</a>
+      <a href="blog.php">Blog</a>
+      <a href="e-waste-management.php">E-waste Management</a>
 
 
       <a href="contact-us.php">Contact Us</a>

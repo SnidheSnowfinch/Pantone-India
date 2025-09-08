@@ -1,7 +1,7 @@
 <?php include 'includes/header.php' ?>
   <section class="Banner-inner fade-in-on-scroll">
     <h1>Gallery</h1>
-    <p>Home/Gallery</p>
+    <p>Home / Gallery</p>
   </section>
   <section class="div-container">
 

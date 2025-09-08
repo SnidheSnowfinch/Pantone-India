@@ -1,7 +1,7 @@
 <?php include 'includes/header.php' ?>
 <section class="Banner-inner fade-in-on-scroll">
   <h1>Natrix – Direct Digital Printer</h1>
-  <p>Home/Natrix – Direct Digital Printer</p>
+  <p>Home / Natrix – Direct Digital Printer</p>
 
 </section>
 <section class="div-container fade-in-on-scroll">

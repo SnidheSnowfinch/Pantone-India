@@ -1,7 +1,7 @@
 <?php include 'includes/header.php' ?>
   <section class="Banner-inner fade-in-on-scroll">
     <h1>Contact Us</h1>
-    <p>Home/Contact Us</p>
+    <p>Home / Contact Us</p>
   </section>
   <section class="div-container">
   <div class="custom-contact-box">

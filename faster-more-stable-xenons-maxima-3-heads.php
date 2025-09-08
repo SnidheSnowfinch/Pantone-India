@@ -1,7 +1,7 @@
 <?php include 'includes/header.php' ?>
 <section class="Banner-inner fade-in-on-scroll">
   <h1>Faster & more stable – Xenons maxima-3 heads</h1>
-  <p>Home/Faster & more stable – Xenons maxima-3 heads</p>
+  <p>Home / Faster & more stable – Xenons maxima-3 heads</p>
 
 </section>
 <section class="div-container fade-in-on-scroll">

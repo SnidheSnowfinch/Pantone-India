@@ -1,7 +1,7 @@
 <?php include 'includes/header.php' ?>
 <section class="Banner-inner fade-in-on-scroll">
   <h1>Sublimation Ink</h1>
-  <p>Home/Sublimation Ink</p>
+  <p>Home / Sublimation Ink</p>
 
 </section>
 <section class="div-container fade-in-on-scroll">

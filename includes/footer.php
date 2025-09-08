@@ -22,13 +22,13 @@
             <li><a href="index.php">Home</a></li>
             <li><a href="About-us.php">About Us</a></li>
             <li><a href="Our-Product.php">Our Product</a></li>
-            <li><a href="#">Blog</a></li>
+            <li><a href="blog.php">Blog</a></li>
           </ul>
         </div>
         <div class="col-md-6 col-lg-6 col-sm-12">
           <ul>
 
-            <li><a href="#">E-waste Management</a></li>
+            <li><a href="e-waste-management.php">E-waste Management</a></li>
             <li><a href="gallery.php">Gallery</a></li>
             <li><a href="contact-us.php">Contact Us</a></li>
           </ul>

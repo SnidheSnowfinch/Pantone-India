@@ -1,7 +1,7 @@
 <?php include 'includes/header.php' ?>
 <section class="Banner-inner fade-in-on-scroll">
   <h1>Increase in production print speed Up to 75% with Fastest printer</h1>
-  <p>Home/Increase in production print speed Up to 75% with Fastest printer</p>
+  <p>Home / Increase in production print speed Up to 75% with Fastest printer</p>
 
 </section>
 <section class="div-container fade-in-on-scroll">
