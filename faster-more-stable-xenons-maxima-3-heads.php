@@ -14,9 +14,9 @@
               with Tension System,</li>
 
           </ul>
-          <div class="buttons">
+          <!-- <div class="buttons">
             <a href="#" class="btn-video glaze-btn">▶ Watch Video</a>
-          </div>
+          </div> -->
         </div>
         <img src="bootstrap/images/faster-more-stable-xenons.jpg">
       </div>

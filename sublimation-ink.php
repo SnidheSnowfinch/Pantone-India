@@ -11,9 +11,9 @@
       <p>We are a leading Retail Trader of dye sublimation ink, inktec sublimation ink, sublimation ink – yellow,
         sublimation ink – black, photo ink and dye sublimation inks from Surat (Gujarat) India.</p>
 
-      <div class="buttons">
+      <!-- <div class="buttons">
         <a href="#" class="btn-video glaze-btn">▶ Watch Video</a>
-      </div>
+      </div> -->
     </div>
     <img src="bootstrap/images/PANTONE-INDIA-2.jpg">
   </div>

@@ -13,9 +13,9 @@
         is 3%, weight is 3000g/m2 (normal 8mm thickness), is a special blanket for all kinds of fabrics, curtain
         fabrics, decorative fabric transfer printing machines.</p>
 
-      <div class="buttons">
+      <!-- <div class="buttons">
         <a href="#" class="btn-video glaze-btn">▶ Watch Video</a>
-      </div>
+      </div> -->
     </div>
     <img src="bootstrap/images/Blanket.jpg">
   </div>

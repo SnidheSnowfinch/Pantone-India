@@ -60,7 +60,7 @@
       <img src="bootstrap/images/Blanket.jpg">
     </div>
     <div class="product-card ">
-    <img src="bootstrap/images/PANTONE-INDIA.jpg">
+      <img src="bootstrap/images/PANTONE-INDIA.jpg">
 
       <div class="product-details">
         <h3>Sublimation Ink</h3>

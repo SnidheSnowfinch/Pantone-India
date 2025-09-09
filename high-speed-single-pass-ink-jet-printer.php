@@ -9,9 +9,9 @@
         <div class="product-details">
           <h3>Increase in production print speed Up to 75% with Fastest printer</h3>
         
-          <div class="buttons">
+          <!-- <div class="buttons">
             <a href="#" class="btn-video glaze-btn">▶ Watch Video</a>
-          </div>
+          </div> -->
         </div>
         <img src="bootstrap/images/pantone-8-Heads.jpg">
       </div>

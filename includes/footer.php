@@ -17,7 +17,7 @@
     <div class="footer-links">
       <h4>Useful Links</h4>
       <div class="row">
-        <div class="col-md-6 col-lg-6 col-sm-12">
+        <div class="col-md-6 col-lg-6 col-sm-6">
           <ul>
             <li><a href="index.php">Home</a></li>
             <li><a href="About-us.php">About Us</a></li>
@@ -25,7 +25,7 @@
             <li><a href="blog.php">Blog</a></li>
           </ul>
         </div>
-        <div class="col-md-6 col-lg-6 col-sm-12">
+        <div class="col-md-6 col-lg-6 col-sm-6">
           <ul>
 
             <li><a href="e-waste-management.php">E-waste Management</a></li>
@@ -58,11 +58,11 @@
 
 </footer>
 <div class="footer-bottom">
-  <p>Copyright © 2025. All Rights Reserved.</p>
-  <p>
+  <p>© Copyright 2023 PANTONE INDIA | All rights reserved.</p>
+  <!-- <p>
     <a href="#" style="color:white;">Privacy Policy</a> |
     <a href="#" style="color:white;">Terms & Conditions</a>
-  </p>
+  </p> -->
 </div>
 <script>
   const testimonials = document.querySelectorAll('.testimonial-content');
@@ -89,8 +89,7 @@
     currentIndex = (currentIndex - 1 + testimonials.length) % testimonials.length;
     showTestimonial(currentIndex);
   }
-
-  // Auto play every 5s
+// ---------------------
   function startAutoPlay() {
     interval = setInterval(nextTestimonial, 5000);
   }
@@ -113,7 +112,6 @@
     });
   }
 
-  // Init
   showTestimonial(currentIndex);
   startAutoPlay();
 

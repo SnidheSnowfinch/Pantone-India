@@ -12,9 +12,9 @@
       <p>P-Press Heat Transfer Machine is a multifunctional heat transfer machine, easy to operate with simple setting
         of speed and pressure.</p>
 
-      <div class="buttons">
+      <!-- <div class="buttons">
         <a href="#" class="btn-video glaze-btn">▶ Watch Video</a>
-      </div>
+      </div> -->
     </div>
     <img src="bootstrap/images/Hp-Slider-red.jpg">
   </div>

@@ -17,7 +17,7 @@
 
         </ul>
         <div class="buttons">
-          <a href="#" class="btn-video glaze-btn">▶ Watch Video</a>
+          <!-- <a href="#" class="btn-video glaze-btn">▶ Watch Video</a> -->
           <a href="faster-more-stable-xenons-maxima-3-heads.php" class="btn-pdf glaze-btn">Read More</a>
         </div>
       </div>
@@ -38,7 +38,7 @@
 
         </ul>
         <div class="buttons">
-          <a href="#" class="btn-video glaze-btn">▶ Watch Video</a>
+          <!-- <a href="#" class="btn-video glaze-btn">▶ Watch Video</a> -->
           <a href="high-speed-single-pass-ink-jet-printer.php" class="btn-pdf glaze-btn">Read More</a>
         </div>
       </div>
@@ -54,7 +54,7 @@
 
         </ul>
         <div class="buttons">
-          <a href="#" class="btn-video glaze-btn">▶ Watch Video</a>
+          <!-- <a href="#" class="btn-video glaze-btn">▶ Watch Video</a> -->
           <a href="nomex-blanket.php" class="btn-pdf glaze-btn">Read More</a>
         </div>
       </div>

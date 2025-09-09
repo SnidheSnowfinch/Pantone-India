@@ -5,13 +5,13 @@
   </section>
   <section class="div-container fade-in-on-scroll">
     <div class="row">
-      <div class="col-lg-6 col-md-6 col-sm-12">
-        <div class="about-img">
+      <div class="col-lg-6 col-md-6 col-sm-12 align-img">
+        <div class="about-img ">
           <img src="bootstrap/images/Pantone-India-About-pg-img.png" alt="Pantone India Team">
         </div>
 
       </div>
-      <div class="col-lg-6 col-md-6 col-sm-12">
+      <div class="col-lg-6 col-md-6 col-sm-12 align-para">
 
         <h2>About Pantone India</h2>
         <p>PANTONE INDIA is Surat based company. Surat is a textile hub in india and south Asia region. Pantone India is one of the top rated and leading digital textile solution providers in india. We are dealing in state-of-the-art machinery and cutting-edge technology in digital printing machines. As we are in service industry, we warp up our core functioning values as per customer centric operation.</p>
@@ -42,10 +42,10 @@
   </section></section>
   <section class="div-container fade-in-on-scroll">
     <div class="row align-item">
-        <div class="col-lg-4 col-md-6 col-sm-12">
+        <div class="col-lg-4 col-md-6 col-sm-12 align-img">
           <img class="abt-img" src="bootstrap/images/Mr.-Mahendra-Rane.jpg" alt="">
         </div>
-        <div class="col-lg-8 col-md-6 col-sm-12">
+        <div class="col-lg-8 col-md-6 col-sm-12 align-para">
           <h2>Mr. Mahendra Rane.</h2>
           <p>Mr. Mahendra Rane possesses a bachelor degree in science. From the very humble family background he has grown up with his entrepreneur values and vision. He has more than 15 years of rich experience in textile machinery market. Pantone India is Vision and Mission of Mr. Mahendra Rane and Mr. Hiren Deshmukh to bring reform in digital printing world.</p>
           <p>He has expertise in the subtle art of import export, commercial practice and business operation management. He leads the company’s commercial and financial wing. Pantone India is committed to establishitself in the pinnacle of digital printing world.</p>
@@ -53,12 +53,12 @@
 
     </div>
     <div class="row margin-top align-item">
-      <div class="col-lg-8 col-md-6 col-sm-12">
+      <div class="col-lg-8 col-md-6 col-sm-12 align-para">
         <h2>Mr. Hiren Deshmukh.</h2>
         <p>Mr. Hiren Deshmukh having B. Tech in Mechanical field. He has dream of becoming a successfulentrepreneur from the very early stage of professional carrier. As his roots are very deep in mechanical engineering, he is leading and holding command of the company’s technical wing. Maintenanceis the core of company’sbusiness, so he has decide to bring excellence in technical aspects.</p>
         <p>Having a bold and dynamic personality he is taking care of company’s external affairs. Mr. Hiren Deshmukh and Mr. Mahendra Rane is always complemented each other by their values and vision, and set a perfect combination to lead a successful organization.</p>
       </div>
-      <div class="col-lg-4 col-md-6 col-sm-12">
+      <div class="col-lg-4 col-md-6 col-sm-12 align-img">
         <img class="abt-img" src="bootstrap/images/Mr.-Hiren-Deshmukh.jpg" alt="">
       </div>
       

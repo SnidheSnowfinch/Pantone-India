@@ -96,9 +96,9 @@
                 <tr>
                     <td>1</td>
                     <td><span class="state-badge">Delhi</span></td>
-                    <td>	07AAGCG4175P1Z1</td>
+                    <td> 07AAGCG4175P1Z1</td>
                     <td>07AAGCG4175P1Z1</td>
-                    <td>	 Greenzon recycling Pvt. Ltd.
+                    <td> Greenzon recycling Pvt. Ltd.
                         512, 5th Floor, Deepali Building 92,
                         Nehru Place, New Delhi-110019.
                     </td>
@@ -115,8 +115,8 @@
                 <tr>
                     <td>2</td>
                     <td><span class="state-badge">Uttar Pradesh</span></td>
-                    <td>09AAGCG4175P1ZX	</td>
-                    <td>09AAGCG4175P1ZX	</td>
+                    <td>09AAGCG4175P1ZX </td>
+                    <td>09AAGCG4175P1ZX </td>
                     <td>Greenzon recycling Pvt. Ltd. R20, UPSIDC. Industrial Area. Sikandrabad, Bulandshahar, Uttar
                         Pradesh-203205.</td>
                     <td>Mr. Chand Malik</td>
@@ -135,7 +135,8 @@
                     <td><span class="state-badge">Assam</span></td>
                     <td>18AADCG2096A1ZW</td>
                     <td>AA1806170013669</td>
-                    <td>	GATI KINTETSU EXPRESS PRIVATE LIMITED257(OLD 771), NEAR BHARAMHAPUTRA COACH BUILDERNH 37JALUKBARI, BORAGAONKAMRUPASSAM781035</td>
+                    <td> GATI KINTETSU EXPRESS PRIVATE LIMITED257(OLD 771), NEAR BHARAMHAPUTRA COACH BUILDERNH
+                        37JALUKBARI, BORAGAONKAMRUPASSAM781035</td>
                     <td>Mr. Zeeshan Malik</td>
                     <td class="contact-info">
                         <a href="tel:+9118002749111"><i class="fas fa-phone"></i> +91 1800 274 9111</a>
@@ -172,7 +173,8 @@
                     <td>AA220317002386N</td>
                     <td>
                         GATI KINTETSU EXPRESS PRIVATELIMITED
-PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PUMPTATIBANDHRAIPURCHATISGARH49209 9
+                        PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL
+                        PUMPTATIBANDHRAIPURCHATISGARH49209 9
                     </td>
                     <td>Mr. Pooja Gupta</td>
                     <td class="contact-info">
@@ -189,7 +191,8 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td>07AADCG2096A1ZZ</td>
                     <td>AA070317051321M</td>
                     <td>
-                        GATI KINTETSU EXPRESS PRIVATE LIMITEDKHASRA NO 14/19/2, OLD DELHI GURGAON ROADOPP HEERA PUBLIC SCHOOLSAMALKHANEW DELHIDELHI110037
+                        GATI KINTETSU EXPRESS PRIVATE LIMITEDKHASRA NO 14/19/2, OLD DELHI GURGAON ROADOPP HEERA PUBLIC
+                        SCHOOLSAMALKHANEW DELHIDELHI110037
                     </td>
                     <td>Mr. Pooja Gupta</td>
                     <td class="contact-info">
@@ -205,9 +208,10 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td><span class="state-badge">Goa</span></td>
                     <td>30AADCG2096A1ZA</td>
                     <td>AA3003170030344</td>
-<td>
-    GATI KINTETSU EXPRESS PRIVATE LIMITEDPLOT NO UO2C, PHASE IV GIDCVERNA INDUSTRIAL ESTATEVERNA GOASOUTH GOAGOA403722
-</td>
+                    <td>
+                        GATI KINTETSU EXPRESS PRIVATE LIMITEDPLOT NO UO2C, PHASE IV GIDCVERNA INDUSTRIAL ESTATEVERNA
+                        GOASOUTH GOAGOA403722
+                    </td>
                     <td>Ms. Pooja Gupta</td>
                     <td class="contact-info">
                         <a href="tel:+9118002749111"><i class="fas fa-phone"></i> +91 1800 274 9111</a>
@@ -223,7 +227,8 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td>24AADCG2096A1Z3</td>
                     <td>AA230317009403Q</td>
                     <td>
-                        GATI KINTETSU EXPRESS PRIVATE LIMITEDBLOCK NO 392, PLOT NO. 1ASHWAMEGH INDUSTRIAL ESTATENEAR CHANGODHAR BUS STANDAHMEDABADGUJARAT382213
+                        GATI KINTETSU EXPRESS PRIVATE LIMITEDBLOCK NO 392, PLOT NO. 1ASHWAMEGH INDUSTRIAL ESTATENEAR
+                        CHANGODHAR BUS STANDAHMEDABADGUJARAT382213
                     </td>
                     <td>Mr. Anil Kumar</td>
                     <td class="contact-info">
@@ -241,7 +246,8 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td>02AADCG2096A1Z9</td>
                     <td>AA020317003667I</td>
                     <td>
-                        GATI KINTETSU EXPRESS PRIVATE LIMITEDKHASRA NO 380/81/84/744OPP.CADILA HEALTH CARE LTD, LABANASWARAJ MAZARABADDIHIMACHAL PRADESH173205
+                        GATI KINTETSU EXPRESS PRIVATE LIMITEDKHASRA NO 380/81/84/744OPP.CADILA HEALTH CARE LTD,
+                        LABANASWARAJ MAZARABADDIHIMACHAL PRADESH173205
                     </td>
                     <td>Mr. Mohsin Malik</td>
                     <td class="contact-info">
@@ -258,7 +264,8 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td><span class="state-badge">Haryana</span></td>
                     <td>06AADCG2096A1Z1</td>
                     <td>AA0603170391587</td>
-                    <td>GATI KINTETSU EXPRESS PRIVATE LIMITEDKHEVAT NO 42 AND 95BEHIND TOYOTA SERVICE CENTERMOUZA SARHAL GAONGURUGRAMHARYANA122001</td>
+                    <td>GATI KINTETSU EXPRESS PRIVATE LIMITEDKHEVAT NO 42 AND 95BEHIND TOYOTA SERVICE CENTERMOUZA SARHAL
+                        GAONGURUGRAMHARYANA122001</td>
                     <td>Ms. Pooja Gupta</td>
                     <td class="contact-info">
                         <a href="tel:+9118002749111"><i class="fas fa-phone"></i> +91 1800 274 9111</a>
@@ -273,7 +280,8 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td><span class="state-badge">Jharkhand</span></td>
                     <td>20AADCG2096A1ZB</td>
                     <td>AA200317014368L</td>
-                    <td>GATI KINTETSU EXPRESS PRIVATE LIMITEDFLAT NO 211, KHATA NO 70HB ROAD,GETLATU RANCHI SADERRANACHIJHARKHAND834009</td>
+                    <td>GATI KINTETSU EXPRESS PRIVATE LIMITEDFLAT NO 211, KHATA NO 70HB ROAD,GETLATU RANCHI
+                        SADERRANACHIJHARKHAND834009</td>
                     <td>Mr. Ankit Shrivas</td>
                     <td class="contact-info">
                         <a href="tel:+9118002749111"><i class="fas fa-phone"></i> +91 1800 274 9111</a>
@@ -287,11 +295,12 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                 <tr>
                     <td>12</td>
                     <td><span class="state-badge">Jammu & Kashmir</span></td>
-                    <td>01AADCG2096A1ZB	</td>
+                    <td>01AADCG2096A1ZB </td>
                     <td>AA010317000158W</td>
-                  <td>
-                    GATI KINTETSU EXPRESS PRIVATE LIMITEDPLOT NO 25/76, SIVA MARKETPURMANDAL MORERATNU CHOWKJAMMU JAMMU & KASHMIR180010
-                  </td>
+                    <td>
+                        GATI KINTETSU EXPRESS PRIVATE LIMITEDPLOT NO 25/76, SIVA MARKETPURMANDAL MORERATNU CHOWKJAMMU
+                        JAMMU & KASHMIR180010
+                    </td>
                     <td>Mr. Sachin Yadav</td>
                     <td class="contact-info">
                         <a href="tel:+9118002749111"><i class="fas fa-phone"></i> +91 1800 274 9111</a>
@@ -308,7 +317,8 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td><span class="state-badge">Kerala</span></td>
                     <td>32AADCG2096A1Z6</td>
                     <td>AA3203170268666</td>
-                    <td>	GATI KINTETSU EXPRESS PRIVATE LIMITED11/66 B, NORTH EDATHALA P.O CHOONDYSAFA NAGARETTEKKARALUVA, ERNAKULAMKERALA683564</td>
+                    <td> GATI KINTETSU EXPRESS PRIVATE LIMITED11/66 B, NORTH EDATHALA P.O CHOONDYSAFA
+                        NAGARETTEKKARALUVA, ERNAKULAMKERALA683564</td>
                     <td>Mr. Shamsher Alam</td>
                     <td class="contact-info">
                         <a href="tel:+9118002749111"><i class="fas fa-phone"></i> +91 1800 274 9111</a>
@@ -324,7 +334,8 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td><span class="state-badge">Meghalaya</span></td>
                     <td>17AADCG2096A1ZY</td>
                     <td>AA170317000342S</td>
-                    <td>GATI KINTETSU EXPRESS PRIVATE LIMITEDPOLICE BAZAR, G S ROADSHILLONGSHILLONGEAST KHASI HILLS MEGHALAYA793002</td>
+                    <td>GATI KINTETSU EXPRESS PRIVATE LIMITEDPOLICE BAZAR, G S ROADSHILLONGSHILLONGEAST KHASI HILLS
+                        MEGHALAYA793002</td>
                     <td>Ms. Pooja Gupta</td>
                     <td class="contact-info">
                         <a href="tel:+9118002749111"><i class="fas fa-phone"></i> +91 1800 274 9111</a>
@@ -339,9 +350,11 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td><span class="state-badge">Maharashtra</span></td>
                     <td>27AADCG2096A1ZX</td>
                     <td>AA2703170709512</td>
-<td>
-    GATI KINTETSU EXPRESS PRIVATE LIMITEDUNIT NO 501, 5TH , CENTRAL ROADAKRUTI STARMIDC ANDHERI EASTMAHARASHTRA400093
-</td>                    <td>Ms. Pooja Gupta</td>
+                    <td>
+                        GATI KINTETSU EXPRESS PRIVATE LIMITEDUNIT NO 501, 5TH , CENTRAL ROADAKRUTI STARMIDC ANDHERI
+                        EASTMAHARASHTRA400093
+                    </td>
+                    <td>Ms. Pooja Gupta</td>
                     <td class="contact-info">
                         <a href="tel:+9118002749111"><i class="fas fa-phone"></i> +91 1800 274 9111</a>
                     </td>
@@ -355,9 +368,11 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td><span class="state-badge">Madhya Pradesh</span></td>
                     <td>23AADCG2096A1Z5</td>
                     <td>AA230317009403Q</td>
-<td>
-    GATI KINTETSU EXPRESS PRIVATE LIMITEDSURVEY NO 39, AB ROADLASUDIA MORI DEWAS NAKA INDOREMADHYA PRADESH452010
-</td>                    <td>Ms. Pooja Gupta</td>
+                    <td>
+                        GATI KINTETSU EXPRESS PRIVATE LIMITEDSURVEY NO 39, AB ROADLASUDIA MORI DEWAS NAKA INDOREMADHYA
+                        PRADESH452010
+                    </td>
+                    <td>Ms. Pooja Gupta</td>
                     <td class="contact-info">
                         <a href="tel:+9118002749111"><i class="fas fa-phone"></i> +91 1800 274 9111</a>
                     </td>
@@ -371,9 +386,11 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td><span class="state-badge">Punjab</span></td>
                     <td>03AADCG2096A1Z7</td>
                     <td>AA030317014618G</td>
-<td>
-    GATI KINTETSU EXPRESS PRIVATE LIMITED325,325-A/B/C/,834,835,841 TO 848854   TO 861, 867 TO 874 RK ROADINDUSTRIAL AREALUDHIANAPUNJAB141003
-</td>                    <td>Ms. Pooja Gupta</td>
+                    <td>
+                        GATI KINTETSU EXPRESS PRIVATE LIMITED325,325-A/B/C/,834,835,841 TO 848854 TO 861, 867 TO 874 RK
+                        ROADINDUSTRIAL AREALUDHIANAPUNJAB141003
+                    </td>
+                    <td>Ms. Pooja Gupta</td>
                     <td class="contact-info">
                         <a href="tel:+9118002749111"><i class="fas fa-phone"></i> +91 1800 274 9111</a>
                     </td>
@@ -387,9 +404,11 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td><span class="state-badge">Rajasthan</span></td>
                     <td>08AADCG2096A1ZX</td>
                     <td>AA080317014593A</td>
-<td>
-    GATI KINTETSU EXPRESS PRIVATE LIMITEDKHASRA NO 1070, GANESHWALI DHANIBHNAKROTA 200 FT. ROADAJMER- JAIPUR HIGHWAYJAIPURRAJASTHAN302026
-</td>                    <td>Ms. Pooja Gupta</td>
+                    <td>
+                        GATI KINTETSU EXPRESS PRIVATE LIMITEDKHASRA NO 1070, GANESHWALI DHANIBHNAKROTA 200 FT.
+                        ROADAJMER- JAIPUR HIGHWAYJAIPURRAJASTHAN302026
+                    </td>
+                    <td>Ms. Pooja Gupta</td>
                     <td class="contact-info">
                         <a href="tel:+9118002749111"><i class="fas fa-phone"></i> +91 1800 274 9111</a>
 
@@ -404,9 +423,11 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td><span class="state-badge">Tamil Nadu</span></td>
                     <td>33AADCG2096A1Z4</td>
                     <td>AA3303170594291</td>
-<td>
-    GATI KINTETSU EXPRESS PRIVATE LIMITEDSURVEY NO: 115/1 AND 115/2 B C DOLD SERVEY NO 78/1A, NOOMBALPULIAMBEDU VILLAGE CHENNAITAMIL NADU600077
-</td>                    <td>Ms. Pooja Gupta</td>
+                    <td>
+                        GATI KINTETSU EXPRESS PRIVATE LIMITEDSURVEY NO: 115/1 AND 115/2 B C DOLD SERVEY NO 78/1A,
+                        NOOMBALPULIAMBEDU VILLAGE CHENNAITAMIL NADU600077
+                    </td>
+                    <td>Ms. Pooja Gupta</td>
                     <td class="contact-info">
                         <a href="tel:+9118002749111"><i class="fas fa-phone"></i> +91 1800 274 9111</a>
 
@@ -421,9 +442,11 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td><span class="state-badge">Tripura</span></td>
                     <td>16AADCG2096A1Z0</td>
                     <td>AA1607170018736</td>
-<td>
-    GATI KINTETSU EXPRESS PRIVATE LIMITEDOLD AGARTALA, NEAR TULAKUNA CHOWMUHANIEAST CHMPAMURATRIPURAAGARTALATRIPURA79 9008
-</td>                    <td>Ms. Pooja Gupta</td>
+                    <td>
+                        GATI KINTETSU EXPRESS PRIVATE LIMITEDOLD AGARTALA, NEAR TULAKUNA CHOWMUHANIEAST
+                        CHMPAMURATRIPURAAGARTALATRIPURA79 9008
+                    </td>
+                    <td>Ms. Pooja Gupta</td>
                     <td class="contact-info">
                         <a href="tel:+9118002749111"><i class="fas fa-phone"></i> +91 1800 274 9111</a>
                     </td>
@@ -437,9 +460,10 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td><span class="state-badge">Uttar Pradesh</span></td>
                     <td>09AADCG2096A1ZV</td>
                     <td>AA0903170282954</td>
-                  <td>
-                    GATI KINTETSU EXPRESS PRIVATE LIMITEDA-15, SEC 68NOIDAGAUTAM BUDH NAGARGAUTAM BUDH NAGARUTTAR PRADESH201301
-                  </td>
+                    <td>
+                        GATI KINTETSU EXPRESS PRIVATE LIMITEDA-15, SEC 68NOIDAGAUTAM BUDH NAGARGAUTAM BUDH NAGARUTTAR
+                        PRADESH201301
+                    </td>
                     <td>Ms. Pooja Gupta</td>
                     <td class="contact-info">
                         <a href="tel:+9118002749111"><i class="fas fa-phone"></i> +91 1800 274 9111</a>
@@ -455,7 +479,8 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td>12AADCG2096A1Z8</td>
                     <td>AA120717000643M</td>
                     <td>
-                        GATI KINTETSU EXPRESS PRIVATE LIMITEDNH 52,NAHARLAGUNITANAGARPAPUM PAREPAPUM PAREARUNACHAL PRADESH791110
+                        GATI KINTETSU EXPRESS PRIVATE LIMITEDNH 52,NAHARLAGUNITANAGARPAPUM PAREPAPUM PAREARUNACHAL
+                        PRADESH791110
 
                     </td>
                     <td>Ms. Pooja Gupta</td>
@@ -473,7 +498,8 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td>11AADCG2096A1ZA</td>
                     <td>AA1103170002509</td>
                     <td>
-                        GATI KINTETSU EXPRESS PRIVATE LIMITEDPAKYONG, SARAMSA ROADTAMBUR. RANIPOOL, GANGTOKGANGTOKEAST SIKKIMSIKKIM737135
+                        GATI KINTETSU EXPRESS PRIVATE LIMITEDPAKYONG, SARAMSA ROADTAMBUR. RANIPOOL, GANGTOKGANGTOKEAST
+                        SIKKIMSIKKIM737135
                     </td>
                     <td>Ms. Pooja Gupta</td>
                     <td class="contact-info">
@@ -490,7 +516,8 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td>35AADCG2096A1Z0</td>
                     <td>AA350317000029O</td>
                     <td>
-                        GATI KINTETSU EXPRESS PVT.LTD. PORT BLAIR DEPOT, NO.99,P.B.NO.59JN ROAD DELANIPURPORT BLAIRANDAMAN & NICOBAR744101
+                        GATI KINTETSU EXPRESS PVT.LTD. PORT BLAIR DEPOT, NO.99,P.B.NO.59JN ROAD DELANIPURPORT
+                        BLAIRANDAMAN & NICOBAR744101
                     </td>
                     <td>Ms. Pooja Gupta</td>
                     <td class="contact-info">
@@ -507,7 +534,8 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td>21AADCG2096A1Z9</td>
                     <td>AA210317021109S</td>
                     <td>
-                        GATI KINTETSU EXPRESS PRIVATE LIMITEDPLOT NO 500, GROUND FLOORNAKHARA, PAHALBALIANTAKHURDAODISHA752101
+                        GATI KINTETSU EXPRESS PRIVATE LIMITEDPLOT NO 500, GROUND FLOORNAKHARA,
+                        PAHALBALIANTAKHURDAODISHA752101
                     </td>
                     <td>Ms. Pooja Gupta</td>
                     <td class="contact-info">
@@ -524,7 +552,8 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td>15AADCG2096A1Z2</td>
                     <td>AA150317000086Q</td>
                     <td>
-                        GATI KINTETSU EXPRESS PRIVATE LIMITEDY 4, BAWNGKAWN CHHIMVENGOPP DIRECTORATE OF TRANSPORT (MST)AIZWALAIZWALMIZORAM796014
+                        GATI KINTETSU EXPRESS PRIVATE LIMITEDY 4, BAWNGKAWN CHHIMVENGOPP DIRECTORATE OF TRANSPORT
+                        (MST)AIZWALAIZWALMIZORAM796014
                     </td>
                     <td>Ms. Pooja Gupta</td>
                     <td class="contact-info">
@@ -541,7 +570,8 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td>26AADCG2096A2ZY</td>
                     <td>AA2503170009990</td>
                     <td>
-                        GATI KINTETSU EXPRESS PRIVATE LIMITEDGODOWN NO. 69/2, 0PP PRINCE PLASTICKACHIGRAM ROADRINGANWADADAMANDAMAN & DIU396210                    </td>
+                        GATI KINTETSU EXPRESS PRIVATE LIMITEDGODOWN NO. 69/2, 0PP PRINCE PLASTICKACHIGRAM
+                        ROADRINGANWADADAMANDAMAN & DIU396210 </td>
                     <td>Ms. Pooja Gupta</td>
                     <td class="contact-info">
                         <a href="tel:+9118002749111"><i class="fas fa-phone"></i> +91 1800 274 9111</a>
@@ -557,7 +587,8 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td>05AADCG2096A1Z3</td>
                     <td>AA0503170085976</td>
                     <td>
-                        GATI KINTETSU EXPRESS PRIVATE LIMITED           LAND BEARING NO 40/4/1 , KHATTA NO 00344KASHIPUR BYPASS ROAD NEAR SANJEEVANI HOSPITALMOUZA RAMPURA PARTRUDRAPURUTTARAKHAND263153
+                        GATI KINTETSU EXPRESS PRIVATE LIMITED LAND BEARING NO 40/4/1 , KHATTA NO 00344KASHIPUR BYPASS
+                        ROAD NEAR SANJEEVANI HOSPITALMOUZA RAMPURA PARTRUDRAPURUTTARAKHAND263153
                     </td>
                     <td>Ms. Pooja Gupta</td>
                     <td class="contact-info">
@@ -590,9 +621,10 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td><span class="state-badge">Nagaland</span></td>
                     <td>13AADCG2096A1Z6</td>
                     <td>AA130717000860K</td>
-<td>
-    GATI KINTETSU EXPRESS PRIVATE LIMITEDCITY TOWERS, NEAR AXIS BANKJAKAHALU BUILDINGDIMAPURNAGALANDNAGALAND79 7112
-</td>
+                    <td>
+                        GATI KINTETSU EXPRESS PRIVATE LIMITEDCITY TOWERS, NEAR AXIS BANKJAKAHALU
+                        BUILDINGDIMAPURNAGALANDNAGALAND79 7112
+                    </td>
                     <td>Ms. Pooja Gupta</td>
                     <td class="contact-info">
                         <a href="tel:+9118002749111"><i class="fas fa-phone"></i> +91 1800 274 9111</a>
@@ -607,9 +639,11 @@ PLOT NO 103 SURVEY NO 302/2 & 303/9, BHILAI GE ROADBESIDE AHMEDJI BHAI PETROL PU
                     <td><span class="state-badge">Puducherry</span></td>
                     <td>34AADCG2096A1Z2</td>
                     <td>AA3407170015891</td>
-<td>
-    GATI KINTETSU EXPRESS PRIVATE LIMITEDR S NO.111/3, THIRUMALAI NAGAROULGARET ROADPONDICHERRYPONDICHERRYPUDUCH ERRY605010
-</td>                    <td>Ms. Pooja Gupta</td>
+                    <td>
+                        GATI KINTETSU EXPRESS PRIVATE LIMITEDR S NO.111/3, THIRUMALAI NAGAROULGARET
+                        ROADPONDICHERRYPONDICHERRYPUDUCH ERRY605010
+                    </td>
+                    <td>Ms. Pooja Gupta</td>
                     <td class="contact-info">
                         <a href="tel:+9118002749111"><i class="fas fa-phone"></i> +91 1800 274 9111</a>
                     </td>

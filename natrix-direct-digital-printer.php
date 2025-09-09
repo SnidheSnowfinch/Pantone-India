@@ -12,9 +12,9 @@
       <p><b>Daily Output :</b> 2000-2400Lm</p>
       <p>Designed specially for High-Quality, High Productivity and High-Performance Suitable for all fabrics types</p>
       <p>Linear motor rail beam Degassing system reduces print head clogging Automatic Negative Pressure</p>
-      <div class="buttons">
+      <!-- <div class="buttons">
         <a href="#" class="btn-video glaze-btn">▶ Watch Video</a>
-      </div>
+      </div> -->
     </div>
     <img src="bootstrap/images/natrix.jpg">
   </div>
